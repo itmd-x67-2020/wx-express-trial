@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+
+# Ignore compiled CSS
+*.css
+*.css*
